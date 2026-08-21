@@ -17,7 +17,7 @@
     // =========================================================
 
     // ВСТАВЬ СЮДА URL ТВОЕГО RENDER СЕРВЕРА
-    const API_URL = 'https://linxgram.onrender.com/';
+    const API_URL = 'https://linxgram.onrender.com';
 
     // =========================================================
     // LOCAL SETTINGS
