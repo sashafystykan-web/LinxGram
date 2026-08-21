@@ -56,7 +56,7 @@ app.post("/api/register", async (req, res) => {
           lastSeenAt: new Date(),
           badge: {
             name: "LinxGram",
-            imageUrl: "https://i.postimg.cc/MTpLFWKr/image.png"
+            imageUrl: "https://i.postimg.cc/NMGZCLhm/a9fc8b751fa90438054daefd0c1024af.jpg"
           }
         },
         $setOnInsert: {
